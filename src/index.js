@@ -19,7 +19,7 @@ const router = createBrowserRouter([
   },
   {
     path: "connexion",
-    element: <Connexion />,
+    element: <Connexion/>,
   },
   {
     path: "news",

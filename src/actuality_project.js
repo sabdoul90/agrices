@@ -47,7 +47,7 @@ function Actuality() {
 
   const projet = () => {
     // Fonction pour gérer l'action liée à Projet
-    console.log("Clic sur Projet");
+    //console.log("Clic sur Projet");
   };
 
   return (
